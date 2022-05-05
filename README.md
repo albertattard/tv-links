@@ -33,3 +33,8 @@
 - [Radio 105](https://www.mediasetplay.mediaset.it/diretta/105.net_cEC)
 - [Virgin Radio](https://www.mediasetplay.mediaset.it/diretta/virginradio.it_cEW)
 - [Radio Monte Carlo](https://www.mediasetplay.mediaset.it/diretta/radiomontecarlo.net_cBB)
+
+## Maltese TV
+
+- [TVM](https://www.tvmi.mt/mt/tvmi/live/tvm/)
+- [NET Live](https://netondemand.mt/)
