@@ -6,7 +6,7 @@
 
 ## Mediaset
 
-### Favourite
+### Favourites
 
 - [Italia 1](https://www.mediasetplay.mediaset.it/diretta/italia1_cI1)
 - [Canele 5](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5)
