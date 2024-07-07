@@ -3,6 +3,7 @@
 ## Witty
 
 - [Uomini e Donne (Le puntate)](https://www.wittytv.it/?trasmissioni=cat-uomini-e-donne&category_name=le-puntate)
+- [Temptation Island (Le puntate)](https://www.wittytv.it/?trasmissioni=cat-temptation-island&category_name=le-puntate)
 
 ## Mediaset
 
