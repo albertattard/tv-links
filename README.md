@@ -10,7 +10,7 @@
 ### Favourites
 
 - [Italia 1](https://www.mediasetplay.mediaset.it/diretta/italia1_cI1)
-- [Canele 5](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5)
+- [Canale 5](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5)
 - [Rete 4](https://www.mediasetplay.mediaset.it/diretta/rete4_cR4)
 - [Top Crime](https://www.mediasetplay.mediaset.it/diretta/topcrime_cLT)
 
