@@ -35,6 +35,10 @@
 - [Virgin Radio](https://www.mediasetplay.mediaset.it/diretta/virginradio.it_cEW)
 - [Radio Monte Carlo](https://www.mediasetplay.mediaset.it/diretta/radiomontecarlo.net_cBB)
 
+## German TV
+
+- [ARD](https://www.ardmediathek.de/live)
+
 ## Maltese TV
 
 - [TVM](https://www.tvmi.mt/mt/tvmi/live/tvm/)
